@@ -2,7 +2,7 @@
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
-#Netflix Visualization Using PowerBI
+# Netflix Visualization Using PowerBI
 ![Screenshot 2024-10-02 235440](https://github.com/user-attachments/assets/b94c86b1-aa5d-4ed5-b1b1-52393a2e8678)
 
 
